@@ -1,0 +1,8 @@
+#print("python is fun")
+#print('''"quotes" and 'single quotes ' can be tricky''')
+name = input("enter the name")
+city = input("enter the city")
+age = int(input("enter the age"))
+print(f"my name is {name} from {city} & I' am {20}")
+
+
